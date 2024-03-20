@@ -35,7 +35,7 @@ img {
 
 /* Header top css starts*/
 .header-top {
-    background-color: #7cd5ff;
+    background-color: #000000;
     padding: 10px 0;
 }
 .header-top .row {
@@ -61,7 +61,7 @@ img {
 
 
 .contact-top{
-    background-color: #00649e;
+    background-color: #0b486b;
     display: none;
     text-align: center;
 
@@ -73,7 +73,7 @@ img {
 }
 
 i.fa.fa-phone.btn-icon {
-    background: #015585;
+    background: #0083ad;
     padding: 10px;
     width: 40px;
     height: 40px;
@@ -92,7 +92,7 @@ i.fa.fa-phone.btn-icon {
 
 
 .favorite a:hover {
-    color: #0070cc
+    color: #00c2cc
 }
 
 .favorite a i{
@@ -259,7 +259,7 @@ i.fa.fa-phone.btn-icon {
     color: #000;
     margin: 0 0 15px 0;
     padding: 10px 15px;
-    background-color: #cae4f4;
+    background-color: #caf4f4;
     font-weight: 800;
     letter-spacing: 1.5px;
     border-radius: 3px;
